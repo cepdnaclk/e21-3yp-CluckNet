@@ -1,12 +1,3 @@
----
-layout: home
-permalink: index.html
-
-# Please update this with your repository name and project title
-repository-name: e21-3yp-CluckNet
-title: Paultry Farm Monitoring System
----
-
 # Paultry Farm Monitoring System
 
 ---
