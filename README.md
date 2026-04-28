@@ -1,4 +1,37 @@
-# Paultry Farm Monitoring System
+# 🐔 CluckNet - Smart Chick Monitoring System
+
+An IoT-based poultry monitoring system with real-time environmental tracking and safety automation.
+
+## 🔧 Components
+
+- Edge ESP32 → Sensor data collection
+- Gateway ESP32 → MQTT communication
+- Backend → Spring Boot + MySQL
+- Frontend → React Dashboard
+
+## 🔄 System Flow
+
+Sensors → Edge ESP32 → Gateway → MQTT → Backend → Database → Dashboard
+
+## 🚨 Features
+
+- Real-time monitoring
+- LPG gas detection
+- Automatic safety control (buzzer + servo)
+- Web dashboard
+
+## 📁 Project Structure
+
+- edge-esp32/
+- gateway-esp32/
+- backend/
+- frontend/
+- diagrams/
+
+## 👨‍💻 Team
+
+Group 18 – University of Peradeniya
+
 
 ---
 
