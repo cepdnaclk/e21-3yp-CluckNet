@@ -1,1 +1,13 @@
 frontend
+
+# Frontend (React Dashboard)
+
+## Features
+- Real-time data display
+- LPG alert visualization
+- Auto refresh
+
+## Run
+
+npm install
+npm run dev
